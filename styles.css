@@ -1,0 +1,37 @@
+body {
+    font-family: 'Courier Prime', monospace;
+    background-color: #e6ff79 /#A0AFFF #A797FF/;
+}
+h1 {
+    font-family: 'Goldman', cursive;
+    margin: 100px;
+    padding: 10px;
+}
+#clock {
+    text-align: center;
+    background-color: #000;
+    color: #0672fe;
+    width: 70vw;
+    border-radius: 1000px;
+    padding: 45px;
+    margin: auto;
+    font-size: 10vw;
+     
+}
+p {
+    text-align: right;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Goldman', cursive;
+    font-family: 'Roboto Slab', serif;
+}
+a {
+    text-decoration: none;
+    color: #1F002F;
+}
+body {
+      background-size: 40px 40px;
+      background-image:
+      linear-gradient(to right, grey 1px, transparent 1px),
+      linear-gradient(to bottom, grey 1px, transparent 1px);
+    }
